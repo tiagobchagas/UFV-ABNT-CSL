@@ -3,8 +3,10 @@
   <info>
     <title>Universidade Federal de Viçosa- ABNT </title>
     <title-short>UFV-ABNT-completa</title-short>
-    <id>http://www.zotero.org/styles/ufv-abnt</id>
-    <link href="http://www.zotero.org/styles/associacao-brasileira-de-normas-tecnicas-ipea" rel="template"/>
+    <id>http://www.zotero.org/styles/universidade-federal-de-vicosa</id>
+    <link href="http://www.zotero.org/styles/universidade-federal-de-vicosa" rel="self"/>
+    <link href="https://github.com/tiagobchagas/UFV-ABNT-CSL" rel="documentation"/>
+    <link href="http://www.zotero.org/styles/associacao-brasileira-de-normas-tecnicas-ufrgs" rel="template"/>
     <author>
       <name>José Tiago Barroso Chagas</name>
       <email>josetchagas@ufv.br</email>
